@@ -1,0 +1,7 @@
+
+create database logindemo;
+use logindemo;
+
+select * from login;
+
+insert into login values('admin','admin');
